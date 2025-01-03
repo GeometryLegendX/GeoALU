@@ -1,4 +1,7 @@
 ADD = addition
+SUB = subtraction
+MUL= multiplication
+DIV= division
 
 
 NOT=reversing all inputs
