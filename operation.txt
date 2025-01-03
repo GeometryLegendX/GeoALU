@@ -1,0 +1,11 @@
+ADD = addition
+
+
+NOT=reversing all inputs
+AND=only turns on if all inputs on the same row (3 lamp on the left and right input line )are on
+OR = turns on if 1 or more inputs on the same row are on
+
+NAND/NOR = AND or OR inverted
+
+XOR= if 1 input on the same row is on it turns on. if both are on it turns off
+XNOR= only turns on if all inputs are the same
